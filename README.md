@@ -1,0 +1,5 @@
+- 👋 Hi, Anthony
+- 👀 I’m interested in Computers, Cars, Comedy, Music, Biking
+- 🌱 I’m currently learning Javascript/NodeJS, ReactJS, mySQL, SCSS
+- 💞️ I’m looking to collaborate on Web Applications/Projects
+- 📫 How to reach me: Send me a message
